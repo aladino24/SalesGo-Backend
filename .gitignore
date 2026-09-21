@@ -1,0 +1,3 @@
+/.env
+/firebase-service-account*.json
+/storage/app/private/firebase/
