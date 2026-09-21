@@ -1,3 +1,9 @@
 /.env
 /firebase-service-account*.json
 /storage/app/private/firebase/
+/vendor/
+/node_modules/
+/storage/framework/cache/
+/storage/framework/sessions/
+/storage/framework/views/
+/storage/logs/
